@@ -1,0 +1,11 @@
+test,metric,value
+coherent_canonical_populations,trace_distance_unmeasured_vs_TPM_endpoint,0.7620285212403155
+coherent_canonical_populations,final_record_TV_unmeasured_vs_TPM,0.24984451964279697
+compatible_pair,construction_extreme_fraction,0.2
+compatible_pair,initial_energy_distribution_TV,0.2
+compatible_pair,Gamma_operator_sup_difference,1.8555100370666173
+compatible_pair,final_energy_difference_J,0.12141117214464181
+compatible_pair,final_record_TV,0.0320343837663652
+model,constraint_matrix_rank,6
+model,compatible_energy_population_fiber_dimension,29
+model,Hi_min_gap_J,0.0003498162512940439
