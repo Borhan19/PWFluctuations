@@ -14,7 +14,7 @@ The main calculation considers a finite Bose--Hubbard system and evaluates the p
 
 ## Main files
 
-- `PRL_FIGURES_TABLES_FREE_ENERGY_STANDALONE.py`  
+- `FIGURES_TABLES_FREE_ENERGY_STANDALONE.py`  
   Main standalone script. It computes the nominal Bose--Hubbard dynamics, endpoint maximum-entropy state, fluctuation-relation quantities, free-energy sampling analysis, and the figures and tables used in the manuscript.
 
 - `arbitrary_initial_state_validation_STANDALONE.py`  
